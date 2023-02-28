@@ -1,4 +1,3 @@
-
 import "./App.css";
 
 import BottlePage from "./components/bottle-page/BottlePage";
@@ -6,7 +5,8 @@ import BottlePage from "./components/bottle-page/BottlePage";
 function App() {
     return (
         <div className="App">
-            <BottlePage />
+            welcome
+            {/* <BottlePage /> */}
         </div>
     );
 }
